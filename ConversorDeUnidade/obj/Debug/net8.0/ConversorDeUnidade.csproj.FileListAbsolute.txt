@@ -1,0 +1,14 @@
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\bin\Debug\net8.0\ConversorDeUnidade.exe
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\bin\Debug\net8.0\ConversorDeUnidade.deps.json
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\bin\Debug\net8.0\ConversorDeUnidade.runtimeconfig.json
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\bin\Debug\net8.0\ConversorDeUnidade.dll
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\bin\Debug\net8.0\ConversorDeUnidade.pdb
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\obj\Debug\net8.0\ConversorDeUnidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\obj\Debug\net8.0\ConversorDeUnidade.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\obj\Debug\net8.0\ConversorDeUnidade.AssemblyInfo.cs
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\obj\Debug\net8.0\ConversorDeUnidade.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\obj\Debug\net8.0\ConversorDeUnidade.dll
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\obj\Debug\net8.0\refint\ConversorDeUnidade.dll
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\obj\Debug\net8.0\ConversorDeUnidade.pdb
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\obj\Debug\net8.0\ConversorDeUnidade.genruntimeconfig.cache
+C:\Users\wesle\source\repos\Projetos básicos\C#\ConversorDeUnidade\ConversorDeUnidade\obj\Debug\net8.0\ref\ConversorDeUnidade.dll
